@@ -6,8 +6,8 @@
 <p> 🌱 I have a background as a Programming Analyst with a specialization in web and mobile development. Recently, I took an Android course where I became more familiar with Android Studio, Kotlin, and unit testing. </p>
 
 <h2 align="left"> Skills and Experience </h2>
-<p> 🌱 Languages & Frameworks: Python, Java, C++, PHP, JavaScript (Prototype framework), SQL, MYSQL, HTML, CSS, Git, Github
-<p> 🌱 Tools: Android Studio, Kotlin, JUnit </p>
+<p> 🌱 Languages & Frameworks: Python, Java, Kotlin, C++, PHP, JavaScript (Prototype framework), SQL, MYSQL, HTML, CSS, Git
+<p> 🌱 Tools: Android Studio, GitHub, JUnit </p>
 Although I don’t have extensive professional experience, my passion for learning and perseverance in overcoming challenges make me a valuable contact. </p>
 
 <h2 align="left"> Contact Me </h2>
